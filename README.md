@@ -30,4 +30,4 @@ The OnePlus Nord N10 is a mid-range smartphone from OnePlus. It was announced in
 ## Device picture
 ![OnePlus Nord N10](https://i.imgur.com/8ysZkbR.png)
 
-Thanks to @Danascape for initial work
+Thanks to @danascape for initial work
